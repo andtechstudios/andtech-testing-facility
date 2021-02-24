@@ -1,0 +1,11 @@
+{
+	"name": "com.andtech.andtech-testing-facility",
+	"version": "0.1.0",
+	"displayName": "Andtech Testing Facility",
+	"description": "Scenes to test out Unity Stuff",
+	"author": {
+		"name": "AndrewMJordan",
+		"email": null
+	},
+	"samples": null
+}
