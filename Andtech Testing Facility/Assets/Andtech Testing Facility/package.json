@@ -1,6 +1,6 @@
 {
 	"name": "com.andtech.andtech-testing-facility",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"displayName": "Andtech Testing Facility",
 	"description": "Scenes to test out Unity Stuff",
 	"unity": "2019.4",
