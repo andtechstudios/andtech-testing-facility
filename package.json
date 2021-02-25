@@ -1,6 +1,6 @@
 {
 	"name": "com.andtech.andtech-testing-facility",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"displayName": "Andtech Testing Facility",
 	"description": "Scenes to test out Unity Stuff",
 	"unity": "2019.4",
@@ -16,5 +16,5 @@
 		"url": "https://github.com/AndrewMJordan/"
 	},
 	"repository": "https://github.com/AndrewMJordan/andtech-testing-facility.git",
-	"license": "BSD-4-Clause"
+	"license": "BSD-3-Clause"
 }
