@@ -1,6 +1,6 @@
 {
 	"name": "com.andtech.andtech-testing-facility",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"displayName": "Andtech Testing Facility",
 	"description": "Scenes to test out Unity Stuff",
 	"unity": "2019.4",
@@ -18,7 +18,8 @@
 	"license": "BSD-3-Clause",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/AndtechGames/andtech-testing-facility.git"
+		"url": "git://github.com/AndtechGames/andtech-testing-facility.git",
+		"directory": null
 	},
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@AndtechGames"
