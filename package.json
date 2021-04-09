@@ -1,25 +1,29 @@
 {
-	"name": "com.andtech.andtech-testing-facility",
-	"version": "0.1.4",
+	"name": "com.andtech.testing-facility",
+	"version": "0.2.0",
 	"displayName": "Andtech Testing Facility",
-	"description": "Scenes to test out Unity Stuff",
-	"unity": "2019.4",
+	"description": "Scenes for testing/prototyping Unity assets. Demonstrates UV unwrapping, PBR materials, environment reflections, and lightmapping.",
+	"unity": null,
 	"keywords": [
-		"andtech",
-		"test",
-		"environment"
+		"andtech"
 	],
-	"type": "tool",
 	"author": {
 		"name": "AndtechGames",
 		"email": "andtechgames@gmail.com",
 		"url": "https://github.com/AndtechGames/"
 	},
 	"license": "BSD-3-Clause",
+	"samples": [
+		{
+			"displayName": "Courtyard",
+			"description": "Courtyard near the back entrance of the facility.",
+			"path": "Samples~/Courtyard"
+		}
+	],
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/AndtechGames/andtech-testing-facility.git",
-		"directory": null
+		"directory": "AndtechTestingFacility/Assets/Andtech Testing Facility"
 	},
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@AndtechGames"
