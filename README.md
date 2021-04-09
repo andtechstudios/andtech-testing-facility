@@ -1,9 +1,6 @@
 # Andtech Testing Facility
+Scenes for testing/prototyping Unity assets. Demonstrates UV unwrapping, PBR materials, environment reflections, and lightmapping.
 
-![](images/feature-image.png)
-
-# Usage
-1. Open the Package Manager window in the Unity Editor.
-2. Click "Add package from git URL..."
-3. Enter the HTTP repository URL of this repo followed by `#upm`.
-	Ex: `https://github.com/AndrewMJordan/andtech-testing-facility.git#upm`
+**Credits**
+- [Yughues - Free Conrete Texture Materials](https://assetstore.unity.com/packages/2d/textures-materials/concrete/yughues-free-concrete-materials-12951)
+- [Baldinoboy - Coconut Palm Tree Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/coconut-palm-tree-pack-7888)

@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Asset Store Demo/Scenes/Day.unity
+    guid: 75cd06d7d53f0cb4c8faa764730126fc
+  - enabled: 0
+    path: Assets/Asset Store Demo/Scenes/Night.unity
+    guid: 48fbb5b1c11af334b82ba6e27ae22c86
+  - enabled: 1
+    path: Assets/Andtech Testing Facility/Samples/Courtyard/Scenes/Day.unity
+    guid: 9c1ebd39d3dc371469fd83e96595ef89
+  - enabled: 1
+    path: Assets/Andtech Testing Facility/Samples/Courtyard/Scenes/Night.unity
+    guid: 596aa7168dcb4b547983a6e54a45631b
   m_configObjects: {}
