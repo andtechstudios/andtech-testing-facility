@@ -2,7 +2,7 @@
 name: UPM Deployment
 
 env:
-  PACKAGE_ROOT: AndtechTestingFacility/Assets/AndtechTestingFacility
+  PACKAGE_ROOT: AndtechTestingFacility/Assets/Andtech Testing Facility
 
 on:
   push:
